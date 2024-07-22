@@ -1,6 +1,6 @@
 # OpenGL ile Araba Oyunu
 Bu programı 2 yıl önce üniversitedeki bir hocamın verdiği ödev için yaptım ama o zaman README eklemeyi unutmuşum. <br>
-3D ve 2D kullanmak zorundaydık oyunda 2D kullandığım için 3D bir oyun menüsü yaptım. <br>
+Oyunda 3D ve 2D kullanmak zorundaydık. Oyunun içinde 2D kullandığım için 3D bir oyun menüsü yaptım. <br>
 ## Menü
 ![Ekran görüntüsü 2024-07-22 123137](https://github.com/user-attachments/assets/cd81ca89-eb18-42db-a803-357d8e07a6c3)
 
